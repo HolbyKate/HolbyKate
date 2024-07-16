@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👩‍💻
+# Hello, I'm Cathy Augustin! 👩‍💻
 
-![Banner](https://github.com/HolbyKate/HolbyKate/my_banner.mp4)
+![Banner](https://github.com/HolbyKate/HolbyKate/My_banner.mp4)
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three
 
@@ -45,19 +45,18 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
 
 ## 📂 Projects
 
-### [Project Name](https://github.com/your-github-username/project-repo)
+### [QRcode](https://github.com/HolbyKate/QrCode)
 Description of the project, the technologies used, and what you learned from it.
 
-### [Another Project](https://github.com/your-github-username/another-project-repo)
+### [OnTheBoard](https://github.com/your-github-username/another-project-repo)
 Brief description of another project, highlighting the key features and tools.
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cathyaugustin/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:augustin.cathy@gmail.com)
 
 ---
 
