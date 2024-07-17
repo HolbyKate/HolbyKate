@@ -1,9 +1,9 @@
 # Hello, I'm Cathy Augustin! 👩‍💻
 
-![Bannière](https://github.com/HolbyKate/HolbyKate/blob/main/mq2.jpeg)
-
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/v7CO_VsuzzA?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <video width="800" height="200" autoplay muted loop>
+    <source src="(https://github.com/HolbyKate/HolbyKate/blob/main/Cathy.mp4)" type="video/mp4">
+  </video>
 </div>
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
