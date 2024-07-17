@@ -2,7 +2,7 @@
 
 ![Banner]([https://www.canva.com/design/DAGLJMFnA84/cMuVF_0r7jZDDZELoO18Ew/edit?utm_content=DAGLJMFnA84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGLJMFnA84/cMuVF_0r7jZDDZELoO18Ew/edit?utm_content=DAGLJMFnA84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
-### Full Stack Developer | Student | Project Manager | Mother of Three
+### Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
 
 Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passion for creating efficient and user-friendly web applications. As a student, project manager, and mother of three, I bring a unique perspective and set of skills to every project I undertake.
 
@@ -46,16 +46,17 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
 ## 📂 Projects
 
 ### [QRcode](https://github.com/HolbyKate/QrCode)
-Description of the project, the technologies used, and what you learned from it.
+How to code your own Qrcode in Python with image (brand) in the centrer.
 
-### [OnTheBoard](https://github.com/your-github-username/another-project-repo)
-Brief description of another project, highlighting the key features and tools.
+### [OnTheBoard](https://github.com/HolbyKate/Ontheboard)
+End year project about onboarding and helper to whiteboard notions.
+[! [Website] (https://github.com/HolbyKate/Ontheboard)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cathyaugustin/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cathyaugustin/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:augustin.cathy@gmail.com)
 
 ---
