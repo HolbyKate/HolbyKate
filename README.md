@@ -49,8 +49,7 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
 How to code your own Qrcode in Python with image (brand) in the centrer.
 
 ### [OnTheBoard](https://github.com/HolbyKate/Ontheboard)
-End year project about onboarding and helper to whiteboard notions.
-[! [Website] (https://github.com/HolbyKate/Ontheboard)
+End year project about onboarding and helper to whiteboard notions. [website](https://www.ontheboard.fr/)
 
 ---
 
