@@ -1,6 +1,6 @@
 # Hello, I'm Cathy Augustin! 👩‍💻
 
-![Banner](https://www.canva.com/design/DAGLJMFnA84/cMuVF_0r7jZDDZELoO18Ew/edit?utm_content=DAGLJMFnA84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner]([https://www.canva.com/design/DAGLJMFnA84/cMuVF_0r7jZDDZELoO18Ew/edit?utm_content=DAGLJMFnA84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGLJMFnA84/cMuVF_0r7jZDDZELoO18Ew/edit?utm_content=DAGLJMFnA84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three
 
