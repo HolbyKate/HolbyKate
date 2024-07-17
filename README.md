@@ -1,10 +1,8 @@
 # Hello, I'm Cathy Augustin! 👩‍💻
 
-<div align="center">
-  <video width="800" height="200" autoplay muted loop>
-    <source src="(https://github.com/HolbyKate/HolbyKate/blob/main/Cathy.mp4)" type="video/mp4">
-  </video>
-</div>
+<p align="center">
+  <img src="[https://github.com/Erkenoss/holbertonschool-simple_shell/blob/master/sources/Banner%20shell.gif](https://github.com/HolbyKate/HolbyKate/blob/main/Cathy.mp4)"/>
+  <p align="center">
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
 
