@@ -1,6 +1,6 @@
 # Hello, I'm Cathy Augustin! 👩‍💻
 
-![Banner](https://github.com/HolbyKate/HolbyKate/My_banner.mp4)
+![Banner](https://www.canva.com/design/DAGLJMFnA84/cMuVF_0r7jZDDZELoO18Ew/edit?utm_content=DAGLJMFnA84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three
 
