@@ -1,7 +1,7 @@
 # Hello, I'm Cathy Augustin! 👩‍💻
 
 <p align="center">
-  <img src="[https://github.com/Erkenoss/holbertonschool-simple_shell/blob/master/sources/Banner%20shell.gif](https://github.com/HolbyKate/HolbyKate/blob/main/Cathy.mp4)"/>
+  <img src="![Cathy](https://github.com/user-attachments/assets/91dce029-320d-44e6-aabd-2fe473e12a47)"/>
   <p align="center">
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
