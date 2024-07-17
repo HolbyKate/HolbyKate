@@ -1,7 +1,7 @@
 # Hello, I'm Cathy Augustin! 👩‍💻
 
 <p align="center">
-  <img src="![Cathy](https://github.com/user-attachments/assets/91dce029-320d-44e6-aabd-2fe473e12a47)"/>
+  <img src="https://github.com/HolbyKate/HolbyKate/blob/main/Black%203D%20Artist%20LinkedIn%20Banner%20(2).gif"/>
   <p align="center">
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
