@@ -54,6 +54,7 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+![RESUME](https://github.com/HolbyKate/HolbyKate/blob/main/Cathy_Augustin_Full_Stack_Developer.pdf)
 ###
 
 ---
