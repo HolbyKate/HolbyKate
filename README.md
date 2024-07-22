@@ -1,4 +1,4 @@
-<gif-player src="https://github.com/HolbyKate/HolbyKate/blob/main/Cathy%20_banner.gif></gif-player>
+<gif-player src="https://github.com/HolbyKate/HolbyKate/blob/main/Cathy%20_banner.gif" speed="0.5" play></gif-player>
 
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
