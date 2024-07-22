@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
 
 ## 📂 Projects
 
-### [QRcode](https://github.com/HolbyKate/QrCode)
+### [QRcode](https://github.com/HolbyKate/QRcode_Linkedin_profil)
 How to code your own Qrcode in Python with image (brand) in the centrer.
 
 ### [OnTheBoard](https://github.com/HolbyKate/Ontheboard)
