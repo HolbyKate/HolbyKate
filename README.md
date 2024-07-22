@@ -59,7 +59,17 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
 
 ---
 
-###
+## 📂 Projects
+
+### [QRcode](https://github.com/HolbyKate/QrCode)
+How to code your own Qrcode in Python with image (brand) in the centrer.
+
+### [OnTheBoard](https://github.com/HolbyKate/Ontheboard)
+End year project about onboarding and helper to whiteboard notions. [website](https://www.ontheboard.fr/)
+
+---
+
+## 🌐 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/cathyaugustin/" target="_blank">
@@ -75,36 +85,6 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=augustin.cathy&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="300" src="https://github.com/HolbyKate/HolbyKate/blob/main/Black%203D%20Artist%20LinkedIn%20Banner%20(2).gif"  />
-</div>
-
-###
----
-
-## 📂 Projects
-
-### [QRcode](https://github.com/HolbyKate/QrCode)
-How to code your own Qrcode in Python with image (brand) in the centrer.
-
-### [OnTheBoard](https://github.com/HolbyKate/Ontheboard)
-End year project about onboarding and helper to whiteboard notions. [website](https://www.ontheboard.fr/)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cathyaugustin/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:augustin.cathy@gmail.com)
 
 ---
 
