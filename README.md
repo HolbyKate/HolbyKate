@@ -59,6 +59,38 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
 
 ---
 
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cathyaugustin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="augustin.cathy@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="6804@holbertonstudents.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+  <a href="Cathycat" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=augustin.cathy&theme=default" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://github.com/HolbyKate/HolbyKate/blob/main/Black%203D%20Artist%20LinkedIn%20Banner%20(2).gif"  />
+</div>
+
+###
+---
+
 ## 📂 Projects
 
 ### [QRcode](https://github.com/HolbyKate/QrCode)
