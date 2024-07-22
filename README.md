@@ -1,4 +1,4 @@
-[https://github.com/HolbyKate/HolbyKate/blob/main/Black%203D%20Artist%20LinkedIn%20Banner%20(2).gif](https://github.com/HolbyKate/HolbyKate/blob/main/Cathy%20_banner.gif)"/>
+[https://github.com/HolbyKate/HolbyKate/blob/main/Black%203D%20Artist%20LinkedIn%20Banner%20(2).gif](https://github.com/HolbyKate/HolbyKate/blob/main/Cathy%20_banner.gif)
 
 
 ### Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
