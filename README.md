@@ -6,6 +6,7 @@
 ### Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
 
 Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passion for creating efficient and user-friendly web applications. As a student, project manager, and mother of three, I bring a unique perspective and set of skills to every project I undertake.
+Let's a lokk on my resume :raised_hands: [https://github.com/HolbyKate/HolbyKate/blob/main/Cathy_Augustin_Full_Stack_Developer.pdf](https://github.com/HolbyKate/HolbyKate/blob/main/Cathy_Augustin_Full_Stack_Developer.pdf)
 
 ---
 
@@ -54,7 +55,6 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-![RESUME](https://github.com/HolbyKate/HolbyKate/blob/main/Cathy_Augustin_Full_Stack_Developer.pdf)
 ###
 
 ---
