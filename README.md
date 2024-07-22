@@ -3,12 +3,13 @@
   <p align="center">
 
 
-<p align="center"> ## Full Stack Developer | Student | Project Manager | Mother of Three :muscle: <p align="center">
+<p align="center"> 
+## Full Stack Developer | Student | Project Manager | Mother of Three :muscle:
+<p align="center">
 
 Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a passion for creating efficient and user-friendly web applications. As a student, project manager, and mother of three, I bring a unique perspective and set of skills to every project I undertake.
 
 ## Take a look at my [resume](https://github.com/HolbyKate/HolbyKate/blob/main/Cathy_Augustin_Full_Stack_Developer.pdf) :raised_hands:
-
 ---
 
 ## 🚀 About Me
