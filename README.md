@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HolbyKate/HolbyKate/blob/main/Cathy%20_banner.gif"/>
+  <img src="https://github.com/HolbyKate/HolbyKate/blob/main/Cathy_banner.gif"/>
   <p align="center">
 
 
